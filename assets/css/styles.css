@@ -372,6 +372,10 @@ a.dotted-link:hover {
   margin-bottom: 30px;
 }
 
+.github-contri {
+  max-width: 80vw;
+}
+
 .github-graph .js-calendar-graph-svg {
   max-width: 100%;
 }
